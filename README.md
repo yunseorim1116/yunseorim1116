@@ -1,12 +1,4 @@
-### Hi there 👋
-하루하루 성실하게,인생 자체는 되는대로 
-
-<h2> </h2>
-# 알고리즘 기초부터 차근차근
-# 리액트 강의
-# 리액트 혼자 미니미니미니프로젝트
-# 아주 가끔 js
-# 아주 가끔 ts
+<>
 
 <!--
 **yunseorim1116/yunseorim1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
