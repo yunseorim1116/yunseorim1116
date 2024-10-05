@@ -18,3 +18,6 @@
 
 - Blog : https://velog.io/@seorim6417/posts
 - Mail : hhyjs2r@gmail.com  
+
+# Let's explore IT knowledge together
+- Discussion : https://github.com/tree-s-computer/-IT-/discussions
