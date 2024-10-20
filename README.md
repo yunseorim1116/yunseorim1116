@@ -14,10 +14,14 @@
 | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80" /><br /> |
 
 
-# Links & Contacts
 
-- Blog : https://velog.io/@seorim6417/posts
-- Mail : hhyjs2r@gmail.com  
+
+# Blog Links
+Frontend: [Main Blog]([velog.io/@seorim6417/posts](https://velog.io/@seorim6417/posts))
+</br>
+Backend: [Secondary Blog]([s2r77777.tistory.com/4](https://s2r77777.tistory.com/))
+#  Contacts 
+Mail : hhyjs2r@gmail.com  
 
 # Let's explore IT knowledge together
 - Discussion : https://github.com/tree-s-computer/-IT-/discussions
