@@ -24,4 +24,4 @@ Backend: [Secondary Blog](https://s2r77777.tistory.com/)
 Mail : hhyjs2r@gmail.com  
 
 # Let's explore IT knowledge together
-- Discussion : https://github.com/tree-s-computer/-IT-/discussions
+Discussion : https://github.com/tree-s-computer/-IT-/discussions
