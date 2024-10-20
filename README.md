@@ -17,9 +17,9 @@
 
 
 # Blog Links
-Frontend: [Main Blog]([velog.io/@seorim6417/posts](https://velog.io/@seorim6417/posts))
+Frontend:[Main Blog](https://velog.io/@seorim6417/posts)
 </br>
-Backend: [Secondary Blog]([s2r77777.tistory.com/4](https://s2r77777.tistory.com/))
+Backend: [Secondary Blog](https://s2r77777.tistory.com/)
 #  Contacts 
 Mail : hhyjs2r@gmail.com  
 
