@@ -17,7 +17,7 @@
 
 
 # Blog Links
-Frontend:[Main Blog](https://velog.io/@seorim6417/posts)
+Frontend: [Main Blog](https://velog.io/@seorim6417/posts)
 </br>
 Backend: [Secondary Blog](https://s2r77777.tistory.com/)
 #  Contacts 
